@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name 6522)(type Legacy)(uri ${KIPRJMOD}/6522.lib)(options "")(descr "Versatile Interface Adapter"))
+  (lib (name PSG)(type Legacy)(uri ${KIPRJMOD}/PSG.lib)(options "")(descr "Programmable Sound Generator"))
+  (lib (name Conn2x28)(type Legacy)(uri ${KIPRJMOD}/Conn2x28.lib)(options "")(descr ""))
+)

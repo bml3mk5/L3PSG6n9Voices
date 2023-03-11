@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 6522
+D Versatile Interface Adapter 1MHz, DIP-40
+K VIA
+$ENDCMP
+#
+#End Doc Library

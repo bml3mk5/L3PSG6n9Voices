@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name CardEdge)(type KiCad)(uri ${KIPRJMOD}/CardEdge.pretty)(options "")(descr ""))
+  (lib (name DIP40n28)(type KiCad)(uri ${KIPRJMOD}/DIP40n28.pretty)(options "")(descr ""))
+  (lib (name SOIC)(type KiCad)(uri ${KIPRJMOD}/SOIC.pretty)(options "")(descr ""))
+  (lib (name Triangle)(type KiCad)(uri ${KIPRJMOD}/Triangle.pretty)(options "")(descr ""))
+)

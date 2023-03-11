@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AY-3-8910
+D Programmable Sound Generator, DIP-40
+K audio psg 3ch
+F http://www.ym2149.com/ym2149.pdf
+$ENDCMP
+#
+$CMP AY-3-8910_n_13
+D Programmable Sound Generator, DIP-40 and 28
+K audio psg 3ch
+F http://www.ym2149.com/ym2149.pdf
+$ENDCMP
+#
+#End Doc Library

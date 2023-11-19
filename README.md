@@ -1,5 +1,7 @@
 # PSG 6&9声カード for 日立ベーシックマスターレベル3
 
+![Example of assembling](assembling.jpg)
+
 ## フォルダ構成
 
     BackCover/ ..................... 背面カバーの3Dモデル
